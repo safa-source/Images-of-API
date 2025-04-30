@@ -1,0 +1,143 @@
+
+[
+    {
+        "img_id" : 101,
+        "img_category" : "Art",
+        "img_url" : "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/3-the-starry-night-vincent-van-gogh.jpg",
+        "img_description" : "The Starry Night by Van Gogh is a painting by Vincent Van Gogh which was uploaded on February 13th, 2013."
+    },
+
+    {
+        "img_id" : 102,
+        "img_category" : "Art",
+        "img_url" : "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/two-bluebirds-jennifer-lommers.jpg",
+        "img_description" : "Two Bluebirds is a painting by Jennifer Lommers which was uploaded on April 8th, 2012."
+    },
+
+    {
+        "img_id" : 103,
+        "img_category" : "Art",
+        "img_url" : "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/summer-joy-jennifer-lommers.jpg",
+        "img_description" : "Summer Joy is a painting by Jennifer Lommers which was uploaded on June 20th, 2015."
+    },
+
+    {
+        "img_id" : 104,
+        "img_category" : "Art",
+        "img_url" : "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/searching-for-forgotten-paths-ii-jennifer-lommers.jpg",
+        "img_description" : "Searching for Forgotten Paths II is a painting by Jennifer Lommers which was uploaded on July 4th, 2019."
+    },
+
+    {
+        "img_id" : 105,
+        "img_category" : "Art",
+        "img_url" : "https://images.fineartamerica.com/images-medium-large-5/tuscan-road-with-poppies-marilyn-dunlap.jpg",
+        "img_description" : "Tuscan road With Poppies is a painting by Marilyn Dunlap which was uploaded on November 15th, 2012."
+    },
+
+    {
+        "img_id" : 106,
+        "img_category" : "Art",
+        "img_url" : "https://images.fineartamerica.com/images-medium-large-5/boulangerie-de-montmartre-marilyn-dunlap.jpg",
+        "img_description" : "Boulangerie de Montmartre is a painting by Marilyn Dunlap which was uploaded on January 6th, 2012."
+    },
+
+    {
+        "img_id" : 107,
+        "img_category" : "Art",
+        "img_url" : "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/la-collina-dei-papaveri-guido-borelli.jpg",
+        "img_description" : "La Collina Dei Papaveri is a painting by Guido Borelli which was uploaded on January 8th, 2011."
+    },
+
+    {
+        "img_id" : 108,
+        "img_category" : "Art",
+        "img_url" : "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/watery-birch-1-carol-robinson.jpg",
+        "img_description" : "Watery Birch 1 is a painting by Carol Robinson which was uploaded on January 12th, 2019."
+    },
+
+    {
+        "img_id" : 109,
+        "img_category" : "Art",
+        "img_url" : "https://images.fineartamerica.com/images-medium-large-5/land-of-sunshine-diane-mcclary.jpg",
+        "img_description" : "Land of Sunshine is a painting by Diane McClary which was uploaded on October 18th, 2011."
+    },
+
+    {
+        "img_id" : 110,
+        "img_category" : "Art",
+        "img_url" : "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/parade-of-the-seasons-anne-gifford.jpg",
+        "img_description" : "Parade of the Seasons is a painting by Anne Gifford which was uploaded on January 19th, 2018."
+    },
+
+    {
+        "img_id" : 111,
+        "img_category" : "Art",
+        "img_url" : "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/this-old-barn-hailey-e-herrera.jpg",
+        "img_description" : "This Old Barn is a painting by Hailey E Herrera which was uploaded on May 4th, 2015."
+    },
+
+    {
+        "img_id" : 112,
+        "img_category" : "Art",
+        "img_url" : "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/desert-in-bloom-johnathan-harris.jpg",
+        "img_description" : "Desert in Bloom is a painting by Johnathan Harris which was uploaded on October 13th, 2012."
+    },
+
+    {
+        "img_id" : 113,
+        "img_category" : "Art",
+        "img_url" : "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/reflections-johnathan-harris.jpg",
+        "img_description" : "Reflections is a painting by Johnathan Harris which was uploaded on June 15th, 2012."
+    },
+
+    {
+        "img_id" : 114,
+        "img_category" : "Art",
+        "img_url" : "https://images.fineartamerica.com/images-medium-large-5/kangaroo-grazing-graham-gercken.jpg",
+        "img_description" : "Kangaroo Grazing is a painting by Graham Gercken which was uploaded on December 8th, 2013."
+    },
+
+    {
+        "img_id" : 115,
+        "img_category" : "Art",
+        "img_url" : "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/monarch-of-the-glen-sir-edwin-landseer.jpg",
+        "img_description" : "Monarch of the Glen is a painting by Edwin Landseer which was uploaded on March 21st, 2011."
+    },
+
+    {
+        "img_id" : 116,
+        "img_category" : "Art",
+        "img_url" : "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/the-artists-garden-at-giverny-claude-monet.jpg",
+        "img_description" : "The Artists Garden at Giverny is a painting by Claude Monet which was uploaded on September 13th, 2010"
+    },
+
+    {
+        "img_id" : 117,
+        "img_category" : "Art",
+        "img_url" : "https://images.fineartamerica.com/images-medium-large-5/mask-mark-adlington.jpg",
+        "img_description" : "Mask is a painting by Mark Adlington which was uploaded on December 31st, 2014."
+    },
+
+    {
+        "img_id" : 118,
+        "img_category" : "Art",
+        "img_url" : "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/friesians-in-winter-maggie-rowe.jpg",
+        "img_description" : "Friesians in Winter is a painting by Maggie Rowe which was uploaded on December 30th, 2011."
+    },
+
+    {
+        "img_id" : 119,
+        "img_category" : "Art",
+        "img_url" : "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/autumn-sunrise-tithi-luadthong.jpg",
+        "img_description" : "Autumn Sunrise is a painting by Tithi Luadthong which was uploaded on May 11th, 2016."
+    },
+
+    {
+        "img_id" : 120,
+        "img_category" : "Art",
+        "img_url" : "https://images.fineartamerica.com/images-medium-large-5/into-the-wind-marion-rose.jpg",
+        "img_description" : "Into The Wind is a painting by Marion Rose which was uploaded on February 9th, 2010."
+    }
+
+]
